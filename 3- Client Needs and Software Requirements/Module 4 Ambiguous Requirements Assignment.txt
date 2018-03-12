@@ -1,0 +1,107 @@
+1- As a player, I want the machine to make noise when I hit a target, so that I have an auditory signal when I'm doing well.
+
+2- As a player, I want to see the name of the player with the highest score of the day, so that I know who has the high score.
+
+3- As a multiplayer, I want both players to have their own controller, so that we can play together.
+
+4- As a player, I want to see the highest score of the day, so that I know the score to beat.
+
+5- As a multiplayer, I want to be able to team up with or play against someone else, so that I don't have to play alone.
+
+6- As a player, I want the targets to start moving as soon as I start the game, so that I can start hitting them.
+
+7- As a multiplayer, I want to shoot at the same set of targets on the same screen as my partner, so that it's more interactive for us.
+
+8- As a player, I want to score as many points as possible, so that I get the high score.
+
+9- As a player, I want the screen to always display at least one target, so that there's always something to hit.
+
+10- As a multiplayer, I want to score more points than my partner when I'm playing in versus mode, so that I win the game.
+
+---------------------------------------------------------
+1- As a player, I want the machine to make a noise every time my score increases by 100 points, so that I have an auditory signal when I’m doing well.
+
+2- As a player, I want to see the name of the player with the highest daily score, so that I know who has the high score.
+
+3- As a multiplayer, I want that each player has its own controller, so that we can play together.
+
+4- As a player, I want to see the highest daily score, so that I know the score to beat.
+
+5- As a multiplayer, I want to work with my partner together to hit as many targets as possible, so that I don’t have to play alone.
+As a multiplayer, I want  to play against another player, so that I don’t have to play alone.
+ 
+6- As a player, I want to start hitting targets immediately after I press "Start" button, so that I get the high score.
+
+7- As a multiplayer, I want to shoot on one screen at the identical set of targets as my partner shoots, so that it’s more interactive for us.
+
+8- As a player, I want to hit as many targets as possible, so that I get the high score.
+
+9- As a player, I want the screen to constantly display at least one target, so that there’s always something to hit.
+
+10- As a multiplayer, I want to beat another player when I'm playing in versus mode, so that I win the game.
+
+---------------------------------------------------------
+1- As a player I want the machine to make a noise every time I gain 100 points, so that I have an auditory signal when I'm doing well.
+
+2- As a player, I want to see the daily high score and the name of the player who achieved it, so that that I know who has the highest score.
+
+3- As a multiplayer, I want each of the two players to have their own controller, so that we can play together.
+
+4- As a player, I want to see the high score of the past 24 hours, so that I know the score to beat.
+ 
+5- User story 1: As a multiplayer, I want to be able to have a mode where I and my partner work together to hit as many targets as possible, as working together at achieving a goal is fun.
+User story 2: As a multiplayer, I want to be able to play against my partner, as I like to be competitive. 
+
+6- As I player, I want the targets to start moving as soon as I press Start, so that I can start hitting them.
+
+7- As a multiplayer, I want to shoot at one set of targets using the same screen as my partner, so that it's more interactive for us.
+
+8- As a player, I want to hit as many targets as possible, so that I can get the high score.
+
+9- As a player, I want the screen to always display a target, so that I never run out of a target to hit.
+
+10- As a multiplayer, I want to beat my partner when I'm playing in versus mode, so that I win the game.
+
+---------------------------------------------------------
+1- As a player, I want the machine to make a noise every time when I gained additional 100 points, so that I have an auditory signal indicating how I make progress.
+
+2- As a player, I want to see the name of the player with today's highest score, so that I know how many points I need to reach 'high score' this day
+
+3- As a multiplayer, I want each player to have a controller, so that we can play together in the same game.
+
+4- As a player, I want to see the high score of the past 24 hours, so that I know the score to beat.
+
+5- As a multiplayer, I want to be able to play against other individual players so that I have a competitive experience.
+As a multiplayer, I want to be able to join a team of two or more players who play against one or more teams so that we have a  competitive experience with a team spirit.
+As a multiplayer, I want to be able to join a team of two or more players who play against the computer so that we have a competitive experience with a team spirit.
+
+6- As a player, I want to be able to control exactly when the game starts by pressing Start, so that I can start hitting targets. 
+
+7- As a multiplayer, I want my opponents to see the exact same targets that I see, so that we experience the game as one single common story.
+
+8- As a player, I want to hit as many targets as possible, so that I get the high score.
+
+9- As a player, I want the screen to always display at least one target, so that I never need to wait for something to shoot at.
+
+10- As a multiplayer, I want to get a higher score than my opponents when I’m done playing in versus mode, so that I win the game.
+
+---------------------------------------------------------
+1-
+
+2-
+
+3-
+
+4-
+
+5-
+
+6-
+
+7-
+
+8-
+
+9-
+
+10-

@@ -1,0 +1,470 @@
+Course Final Assessment (Graded)
+
+
+ 
+ 
+1. 
+Every process is organized into distinct phases. What is a phase organized into?
+
+steps
+
+vvvv	activities
+
+xxxx	cycles
+
+tasks
+
+-----///-----///-----///-----///-----///-----///-
+
+2. 
+In general, what are the smallest manageable units of work to do within a process?
+
+work products
+
+xxxx	steps
+
+roles
+
+vvvv	tasks
+
+-----///-----///-----///-----///-----///-----///-
+
+3. 
+What is the term to describe a sequence of phases outlining the structure of work to create a software product?
+
+model
+
+vvvv	process
+
+methodology
+
+life cycle
+
+-----///-----///-----///-----///-----///-----///-
+
+4. 
+Which one of the following statements is true?
+
+An activity is composed of tasks done by the same role.
+
+The number of tasks done leads to a process progressing through phases.
+
+An activity is composed of tasks involving common resources.
+
+vvvv	A software life cycle process model consists of phases.
+
+-----///-----///-----///-----///-----///-----///-
+
+5. 
+What are examples of resources needed to make a software product?
+
+Designs for the product
+
+vvvv	Time and money
+
+Office supplies and requirements
+
+Cost and quality
+
+-----///-----///-----///-----///-----///-----///-
+
+6. 
+What are examples of roles played by people for a software product?
+
+Team player
+
+vvvv	Programmer and tester
+
+Smart and empathic
+
+Duties and responsibilities
+
+-----///-----///-----///-----///-----///-----///-
+
+7. 
+As defined and depicted in the course, which one of the following statements is true?
+
+A task uses a work product to produce another work product.
+
+xxxx	A role uses and produces work products.
+
+xxxx	A task uses time to produce a work product.
+
+A role produces and consumes work products.
+
+-----///-----///-----///-----///-----///-----///-
+
+8. 
+From the course, which two of the following statements is true?
+
+v	Practices are tactics used to make a process happen more effectively.
+
+x	An Agile methodology has practices that emphasize processes and tools.
+
+x	The Manifesto for Agile Software Development is a methodology.
+
+v	An Agile methodology contains practices based on Agile principles.
+
+-----///-----///-----///-----///-----///-----///-
+
+9. 
+From the course, what are examples of specification activities?
+
+Analyzing requirements, designing the architecture, and developing test procedures.
+
+vvvv	Identifying ideas or needs, eliciting requirements, and managing requirements.
+
+Identifying ideas or needs, prioritizing requirements, and demonstrating to clients.
+
+xxxx	Creating a process, expressing requirements, and analyzing requirements.
+
+-----///-----///-----///-----///-----///-----///-
+
+10. 
+From the course, in which phase would an activity to conduct reviews and audits upon the product occur?
+
+vvvv	Verification and validation
+
+Reviewing
+
+Specification
+
+Design and implementation
+
+-----///-----///-----///-----///-----///-----///-
+
+11. 
+Which one of the following process models is not an example of a linear process model?
+
+*	Sawtooth
+
+Unified
+
+xxxx	Waterfall
+
+xxxx	V
+
+-----///-----///-----///-----///-----///-----///-
+
+12. 
+Which two of the following statements are not true of the Waterfall software process model?
+
+v	The client sees working software early.
+
+v	Software requirements can be changed later easily.
+
+x	The model completes phases one at a time.
+
+x	The model is simple and readily understood.
+
+-----///-----///-----///-----///-----///-----///-
+
+13. 
+Unlike Waterfall and V, what does the Sawtooth software process model further allow?
+
+Linear structure of phases
+
+Approved work products
+
+vvvv	Intermediate prototypes shown to client
+
+Explicit verification at multiple levels
+
+-----///-----///-----///-----///-----///-----///-
+
+14. 
+In the Spiral software process model, what is the correct order of quadrants or phases in each iteration?
+
+identify and resolve risks, determine objectives, develop and test, plan the next iteration
+
+specification, design and implementation, verification and validation, plan the next iteration
+
+determine objectives, develop and test, evaluate prototype, plan the next iteration
+
+vvvv	determine objectives, identify and resolve risks, develop and test, plan the next iteration
+
+-----///-----///-----///-----///-----///-----///-
+
+15. 
+The Unified software process model is iterative because of which of the following reason(s)? (Choose two that are correct)
+
+x	A spiral can be repeated.
+
+v	Phases of the model happen in a cycle, and a cycle can be repeated.
+
+v	An iteration in a phase can be repeated.
+
+x	The iteration phase can be repeated.
+
+-----///-----///-----///-----///-----///-----///-
+
+16. 
+In the Unified software process model, requirements are conceived in the ___ phase and further refined in the ___ phase.
+
+xxxx	inception / specification
+
+xxxx	inception / elaboration
+
+*	requirements / design
+
+initiation / requirements
+
+-----///-----///-----///-----///-----///-----///-
+
+17. 
+In incremental prototyping, the product is built up by adding successive increments. What kinds of features get done in the successive increments?
+
+Must do features get done first, then could do features get done next.
+
+*	Must do features get done first, then should do features get done next.
+
+xxxx	Basic forms of features get done first, then refined variations get done next.
+
+xxxx	Security issues are fixed first, then new features get done next.
+
+-----///-----///-----///-----///-----///-----///-
+
+18. 
+Continuous delivery mainly aims to achieve _______________ by the end of each iteration?
+
+the product requirements are received for the next iteration
+
+a meeting with the client to gain feedback on the working software
+
+vvvv	working software that is tested, ready-to-run, and releasable to others
+
+nourishment is continuously delivered to the team
+
+-----///-----///-----///-----///-----///-----///-
+
+19. 
+Which of the following statements is not an outcome of the planning game in Extreme Programming that involves the client and development team?
+
+vvvv	A contract is drawn up for the committed set of required features.
+
+The required features for the product are defined and prioritized.
+
+Decisions are formed on what required features are to be ready for which release.
+
+Effort estimates are made for each required feature.
+
+-----///-----///-----///-----///-----///-----///-
+
+20. 
+A specific Extreme Programming practice is to have a system ___, so that the product intent or design can be easily explained to others.
+
+explanation
+
+*	metaphor
+
+xxxx	design
+
+xxxx	vision
+
+-----///-----///-----///-----///-----///-----///-
+
+21. 
+Which one of the following upholds the Extreme Programming practice of simple design?
+
+Give your product a simple name.
+
+Create a design that covers many future possibilities.
+
+vvvv	 Design just what you need to make your high-priority requirements work.
+
+Make detailed designs of all your requirements.
+
+-----///-----///-----///-----///-----///-----///-
+
+22. 
+Which of the following statements is true about the Extreme Programming practice of continuous testing?
+
+Tests are written for a required feature by the client writing unit tests.
+
+xxxx	Tests are written for a required feature just after its source code is written.
+
+*	Tests are written for a required feature before its source code is written.
+
+xxxx	Tests are written for a required feature to validate the product.
+
+-----///-----///-----///-----///-----///-----///-
+
+23. 
+In the Extreme Programming practice of continuous testing, what type of test is used by the client to check that each expected feature of the overall product works as specified?
+
+Continuous test
+
+Extreme test
+
+Unit test
+
+vvvv	Acceptance test
+
+-----///-----///-----///-----///-----///-----///-
+
+24. 
+In the Extreme Programming practice of pair programming, which two of the following statements is true?
+
+v	Pair programming increases code review.
+
+x	A pair of developers works at the same computer, with one assigned to do code review.
+
+v	A pair of developers works at the same computer, on the same task.
+
+x	A pair of developers works side-by-side, each with their own computer and task.
+
+-----///-----///-----///-----///-----///-----///-
+
+25. 
+In Scrum, the project timeline is divided into fixed-length time boxes known as ___, with each typically lasting ___.
+
+sprints / one or two months
+
+vvvv	sprints / one or two weeks
+
+scrums / one or two weeks
+
+scrums / one or two months
+
+-----///-----///-----///-----///-----///-----///-
+
+26. 
+In Scrum, the ___ is responsible for ___ on the product backlog.
+
+scrum master / collecting requirements
+
+scrum team / prioritizing requirements
+
+product owner / assigning team members to requirements
+
+vvvv	product owner / prioritizing requirements
+
+-----///-----///-----///-----///-----///-----///-
+
+27. 
+In Scrum, who can make changes to the requirements on the product backlog?
+
+xxxx	Scrum master
+
+Anyone on the scrum team
+
+vvvv	Product owner
+
+Product master
+
+-----///-----///-----///-----///-----///-----///-
+
+28. 
+What are two scrum events that are facilitated by a scrum master?
+
+*	Sprint planning and daily retrospective
+
+xxxx	Daily planning and sprint review
+
+vvvv	Daily scrum and sprint planning
+
+Daily scrum and roadblock removal
+
+-----///-----///-----///-----///-----///-----///-
+
+29. 
+How can waste arise in software development? (Choose two that are correct)
+
+x	The developers reuse standard software components.
+
+v	Each developer is busy, but required features are not fully "done".
+
+v	The requirements are unclear.
+
+x	Knowledge is shared within the team.
+
+-----///-----///-----///-----///-----///-----///-
+
+30. 
+In Lean software development, how can amplifying learning occur? (Choose two that are correct)
+
+v	The developers show all alternative solutions to the client.
+
+x	The developers watch educational online videos while on a programming task.
+
+x	The developers focus on one expedient solution.
+
+v	The developers continuously develop alternative solutions to the problem.
+
+-----///-----///-----///-----///-----///-----///-
+
+31. 
+In Lean software development, what does the principle of deciding as late as possible mean?
+
+Decisions are made to delay the product delivery to a later date.
+
+xxxx	Decisions are made to choose the latest alternative.
+
+*	Decisions are made just before a deadline.
+
+xxxx	Decisions are made after having enough information from considering the alternatives.
+
+-----///-----///-----///-----///-----///-----///-
+
+32. 
+In Lean software development, what does the principle of delivering as fast as possible mean? (Choose three that are correct)
+
+x	The software product is delivered rapidly via courier.
+
+v	Working alternatives are rapidly created.
+
+v	Iterations are short, so feedback is frequent, and product evolution is rapid.
+
+v	The software product is initially simple, to reach the market rapidly.
+
+-----///-----///-----///-----///-----///-----///-
+
+33. 
+In Lean software development, what does building quality or integrity in mean? (Choose two that are correct)
+
+v	The developers refactor the source code to be simpler and easier to modify.
+
+v	The developers apply practices to avoid or quickly catch errors while making the software product.
+
+x	Certain sprints are dedicated to focus on quality.
+
+x	External inspectors determine whether the software product is high quality.
+
+-----///-----///-----///-----///-----///-----///-
+
+34. 
+In Lean software development, what does seeing the whole mean? (Choose two that are correct)
+
+x	The whole software product is merely the sum of individual features.
+
+x	Developers leave it to the managers to understand the big picture.
+
+v	The end user experiences a cohesive software product.
+
+v	The software product is understood in the context of other products by the same maker.
+
+-----///-----///-----///-----///-----///-----///-
+
+35. 
+In Kanban, the columns on the board represent ___.
+
+sprints
+
+calendar months
+
+vvvv	states that tasks undergo
+
+individual team members
+
+-----///-----///-----///-----///-----///-----///-
+
+36. 
+Following Scrum and Kanban, for a small feature development task, what should the done column signify?
+
+The feature is written and tested.
+
+vvvv	The feature is written, tested, documented, and accepted.
+
+The feature is written, tested, and documented.
+
+The feature is written.

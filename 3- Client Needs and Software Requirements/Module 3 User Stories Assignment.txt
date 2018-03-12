@@ -1,0 +1,80 @@
+1. As an account holder, I want to enter a question I have, so that I can get help by other solve my problem.
+
+2. As an account holder, I want to enter an answer to an existing question, so that I can help a fellow developer.
+
+3. As an account holder, I want to be abel to comment on an existing answer, so that I can further discuss details to this answer.
+
+4. As a developer, I want to see a list of existing questions, so that I can browse through existing topics.
+
+5. As a developer, I want to search questiony be keyowrd, so that I can find similar questions to my matter.
+
+6. As a developer, I want to down- or up-vote answers, so that I can promote valid answers or demote wrong ansers.
+
+7. As a developer, I want to see answers ranked by votes, so that I can find the most valid ansers an top.
+
+8. As an account holder, I want to be able to edit my profile, so that I can enter personal data.
+
+9. As an account holder, I want to upload a profile pictor to my profile, so that other developers can see how I look like.
+
+10. As an account holder, I want to acces a list of my submitted questions and ansers, so that I can keep track of them.
+
+-------------------------------------------------------
+
+1. As a Developer I want be able to ask questions to a community of developers so that I can obtain a variety of solutions to any questions.
+2. As an Expert or community participant I want to be able to respond to questions asked by developers so that my input can be used by the Developers and community participants.
+3. As a Developer I want to be able to comment on Expert responses to questions so that we can collaborate.
+4.  As a Developer I want to be able to browse questions and search for questions based on Keyword so that the information provided is easy to manage.
+5.  As a Developer I want to be able to vote on answers so that answers are sorted and ranked based on upvotes or down-votes.
+6.  As a Developer I want to be able to create a User account so that I can participate in the voting and with the community.
+7. As a Developer I want to be able to browse questions and answers without creating an account so that it is easier to participate.
+8.  As a Developer I want to be able to vote on answers without having to create an account so that I can actively participate in the community.
+9.  As an Account creator I want to be able to update my account so that I can have a profile picture.
+10.  As a Developer I want my profile page to show all the questions I have asked or responded to so that I can easily see my submissions.
+
+---------------------------------------------------
+
+1.As a developer, I want to browse the site for questions & answers, so that I can get the required solution to my issue.
+
+2.As a developer , I want to create an account  so that I can ask questions related to my issue.
+
+3.As a developer, I want to up-vote/down-vote answers, so that I can share my expertise and help provide the right answer to the forum
+
+4.As an account holder, I want to update my profile picture, so that other developers in the forum can view my details.
+
+5.As a developer, I want to create an account , so that I can answer to the questions in the forum.
+
+6.As  an account holder, I want to see all the questions I have asked  so that I can keep track of the issues and become aware of the solution
+
+7.As a developer, I want to comment on the questions & answers, so that I can share my knowledge and contribute to the forum.
+
+8.As a developer, I want to search the site based on keywords, so that I can view all related answers based on a particular domain/keyword.
+
+9.As a developer, I want to see the top answers based on upvote/downvote, so that I can know the most valid and relevant answer
+
+10.As  an account holder, I want to see all the questions I have answered  so that I can know if its valid.
+
+
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+
+1- As a developer, I want to create an account , so that I can answer to the questions in the forum.
+
+2- As a developer, I want to see a list of existing questions, so that I can browse through existing topics.
+
+3- As an account holder, I want to be able to edit my profile, so that I can enter personal data.
+
+4- As  an account holder, I want to see all the questions I have asked  so that I can keep track of the issues and become aware of the solution
+
+5- As an account holder, I want to be abel to comment on an existing answer, so that I can further discuss details to this answer.
+
+6- As an account holder, I want to enter a question I have, so that I can get help by other solve my problem.
+
+7- As a account holder, I want to comment on the questions & answers, so that I can share my knowledge and contribute to the forum.
+
+8- As a developer, I want to search questiony be keyowrd, so that I can find similar questions to my matter.
+
+9- As a developer, I want to up-vote/down-vote answers, so that I can share my expertise and help provide the right answer to the forum
+
+10- As a developer, I want to see answers ranked by votes, so that I can find the most valid ansers an top.

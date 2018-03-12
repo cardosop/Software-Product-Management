@@ -1,0 +1,107 @@
+Module 2 (Graded)
+
+
+
+
+
+1. 
+According to a survey conducted in 2013 by Scott Ambler + Associates, 58% of respondents defined project success by what criteria?
+
+vvvv	project on schedule
+
+project on budget
+
+xxxx	project meets specification
+
+xxxx	all of the above
+
+-----////--------/////---------////-----//-----
+
+2. 
+The Manifesto for Agile Software Development specifically says it values ____ over comprehensive documentation?
+
+xxxx	individuals and interactions
+
+customer collaboration
+
+vvvv	working software
+
+responding to change
+
+-----////--------/////---------////-----//-----
+
+3. 
+The Manifesto for Agile Software Development says it values ____ less.
+
+customer collaboration
+
+vvvv	following a plan
+
+individuals and interactions
+
+working software
+
+-----////--------/////---------////-----//-----
+
+4. 
+As an Agile principle, what is the primary measure of progress in the project?
+
+xxxx	sustainable development
+
+technical excellence
+
+vvvv	working software
+
+xxxx	satisfying the customer
+
+-----////--------/////---------////-----//-----
+
+5. 
+In a software process, in which phase do you determine what the software is expected to do?
+
+verification and validation
+
+vvvv	specification
+
+design and implementation
+
+planning
+
+-----////--------/////---------////-----//-----
+
+6. 
+What potential benefits does following a process for software development have?
+
+quality is improved; roles are defined; coding is from imagination
+
+vvvv	responsibilities are defined; project are monitored; risks are managed
+
+work expectations are set; poor designs are detected; resources are wasted
+
+features are defined; ad hoc development is followed; defects are found
+
+-----////--------/////---------////-----//-----
+
+7. 
+Spending time on refining software requirements primarily helps to ______.
+
+polish the expression of the requirements, so no further edits are needed
+
+vvvv	detect potential misunderstandings in your product before it is built
+
+ensure the software requirements are all known in the beginning
+
+show the implementation details of how the product works internally
+
+-----////--------/////---------////-----//-----
+
+8. 
+According to Alan Lakein, planning is about ___ so that you can do something about it now.
+
+bringing the past into the future
+
+bringing the past into the present
+
+vvvv	bringing the future into the present
+
+bringing experience into the present

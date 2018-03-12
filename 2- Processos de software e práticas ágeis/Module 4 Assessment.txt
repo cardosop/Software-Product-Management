@@ -1,0 +1,106 @@
+ Module 4 Assessment (Graded)
+
+
+ 
+ 
+1. 
+The Agile Unified Process follows Agile principles. What practices or techniques are added to the basic Unified process? (Choose two that are correct)
+
+x	Eliminating waste
+
+x	Architecture models
+
+v	Test-driven development
+
+v	Incremental releases
+
+-----///-----///-----///-----///-----///-----///-
+
+2. 
+Which practices waste time during software development? (Choose two that are correct)
+
+x	Everyone is aware of the progress through an updated Kanban board.
+
+x	The working software is shown to the client, who offers constructive feedback.
+
+v	Meetings are scheduled weekly, whether or not they are needed.
+
+v	There are delays in receiving work products.
+
+-----///-----///-----///-----///-----///-----///-
+
+3. 
+How can waste arise in software development? (Choose two that are correct)
+
+x	Required features expected to be developed in a sprint are fully "done".
+
+v	There are product defects found late in the development.
+
+v	Developers work on rarely used product features.
+
+x	Knowledge about the developers' skills is shared among the team.
+
+-----///-----///-----///-----///-----///-----///-
+
+4. 
+In Lean software development, how can amplifying learning occur? (Choose two that are correct)
+
+x	The developers choose technologies that force them to learn new skills.
+
+v	The developers use short iterations.
+
+x	The developers make different solutions, each with the exact same features.
+
+v	The developers write and run tests.
+
+-----///-----///-----///-----///-----///-----///-
+
+5. 
+In Lean software development, what does empowering the team mean? (Choose two that are correct)
+
+v	Developers are trusted to make the right technical decisions.
+
+v	Managers do not tell the developers how to do their tasks.
+
+x	There are no managers.
+
+x	Managers tell the developers how to do their tasks.
+
+-----///-----///-----///-----///-----///-----///-
+
+6. 
+In Lean software development, what does the additional principle of using the scientific method mean? (Choose two that are correct)
+
+v	A product manager initiates experiments to collect user data and test hypotheses.
+
+x	The developers wear lab coats to look like scientists.
+
+v	A product manager supports claims or decisions using user data.
+
+x	Decisions are made by trusting intuition.
+
+-----///-----///-----///-----///-----///-----///-
+
+7. 
+In Kanban, tasks are done only when they are absolutely needed. This push-pull practice is similar to ___ manufacturing.
+
+out-of-time
+
+xxxx	just-in-case
+
+one-at-a-time
+
+vvvv	just-in-time
+
+-----///-----///-----///-----///-----///-----///-
+
+8. 
+In Kanban, the developer tasks are initially derived from ___.
+
+clients determining the tasks
+
+managers determining the tasks
+
+vvvv	requirements on the product backlog
+
+xxxx	the previous column on the board

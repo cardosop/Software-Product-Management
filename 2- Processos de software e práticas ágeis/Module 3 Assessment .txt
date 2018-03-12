@@ -1,0 +1,106 @@
+ Module 3 Assessment (Graded)
+
+
+ 
+ 
+1. 
+Practices that follow Agile principles would work well with which software process models?
+
+Sawtooth, Spiral
+
+Sawtooth, Unified
+
+Waterfall, Spiral
+
+vvvv	Spiral, Unified
+
+------////--------////-------////-------////-----
+
+2. 
+A specific Extreme Programming practice is to have ___ releases, so that releases happen frequently.
+
+xxxx	simple
+
+xxxx	continuous
+
+xxxx	frequent
+
+small
+
+------////--------////-------////-------////-----
+
+3. 
+In the Extreme Programming practice of refactoring, which two of the following statements is true?
+
+xxxx	The behavior of the source code is changed while restructuring its design.
+
+xxxx	A new feature is added during refactoring.
+
+vvvv	Developers run unit tests while refactoring.
+
+vvvv	The design of the source code is restructured without changing its behavior.
+
+------////--------////-------////-------////-----
+
+4. 
+Which of the following Extreme Programming practices focuses on developers frequently combining their code?
+
+Coding standards
+
+Collective code ownership
+
+vvvv	Continuous integration
+
+Frequent combination
+
+------////--------////-------////-------////-----
+
+5. 
+Following an Extreme Programming practice, the customer is ___, which can be difficult to arrange.
+
+on-call
+
+vvvv	on-site
+
+on a diet
+
+on time
+
+------////--------////-------////-------////-----
+
+6. 
+Which one of the following is not an outcome of Scrum practices to manage work?
+
+Transparency, where everyone can see every part of the project.
+
+vvvv	Concentration, where each team member focuses on tasks in a specialty.
+
+xxxx	Inspection, where flaws are revealed.
+
+Adaptation, where adjustments are continually made.
+
+------////--------////-------////-------////-----
+
+7. 
+In Scrum, during a sprint, suppose a requirements change is suggested that is outside the sprint goal. Can the scrum team work on the change during the sprint?
+
+xxxx	Yes, if the sprint duration is extended to accommodate the change.
+
+No, working on such changes is not allowed.
+
+xxxx	No, unless some other requirement is dropped to accommodate the change.
+
+xxxx	Yes, if the product owner makes the change on the product backlog.
+
+------////--------////-------////-------////-----
+
+8. 
+In Scrum, what happens at the end of each sprint, in a sprint review event?
+
+xxxx	The scrum team plans the work for the next sprint.
+
+xxxx	The developers discuss with each other the tasks they have done.
+
+The product owner is shown the working software.
+
+xxxx	The process is discussed to consider improvements.

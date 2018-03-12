@@ -1,0 +1,106 @@
+Module 2 Assessment (Graded)
+
+
+
+
+1. 
+End users are ___ users, since they use the product. Their supervisors are ___ users, if they use the product only occasionally or indirectly. Instances of both types of users are ___, since they are affected by the product.
+
+direct / indirect / customers
+
+primary / intermediary / stakeholders
+
+vvvv	primary / secondary / stakeholders
+
+direct / tertiary / customers
+
+-----///-----//-----///-----//-----///-----//----
+
+2. 
+When forming the requirements for a software product to monitor a person's physical health, what background characteristics of users should be considered? Choose two that are correct.
+
+v	Sensory abilities (e.g., sight)
+
+x	Personality traits
+
+v	Background knowledge (e.g., computer skills)
+
+x	Income level
+
+-----///-----//-----///-----//-----///-----//----
+
+3. 
+Ways to elicit requirements from end-users include ___. Choose three that are correct.
+
+v	end user interviews
+
+v	focus group discussions
+
+v	watching the tasks end users do
+
+x	sequestering the users until they decide
+
+-----///-----//-----///-----//-----///-----//----
+
+4. 
+Requirements elicitation is an activity with stakeholders involving interactions that are ___. Choose two that are correct.
+
+x	passive
+
+v	exploratory
+
+x	interrogative
+
+v	balanced
+
+-----///-----//-----///-----//-----///-----//----
+
+5. 
+A use case description defines a task supported by the software product, including the task goal, participating ___ involved in the task, the ___ that must be met once the task is completed normally, and the main steps of the task in the ___.
+
+vvvv	actors / post-conditions / basic flow
+
+users / post-conditions / normal flow
+
+users / effects / normal flow
+
+actors / effects / basic flow
+
+-----///-----//-----///-----//-----///-----//----
+
+6. 
+Within a use case description, what is the difference between a precondition and a trigger?
+
+vvvv	A precondition is a state that is met beforehand, while a trigger is an event that causes the use case to start.
+
+The actors cause triggers to occur, while the product causes preconditions to be true.
+
+xxxx	When a precondition for the use case become true, the trigger occurs to start the use case.
+
+When a trigger occurs, the preconditions for the use case become true for the use case.
+
+-----///-----//-----///-----//-----///-----//----
+
+7. 
+A wireframe used during requirements elicitation is a good way to specify ___.
+
+the relationships between states of the product user interface
+
+vvvv	the important information to be displayed
+
+the actors involved in using the product
+
+the quality of graphics to be displayed
+
+-----///-----//-----///-----//-----///-----//----
+
+8. 
+Movie-style storyboards can use fictional characters with specific ___ to depict the different types of users, and their goals, behaviors, and characteristics, in the markets to be addressed by the software product.
+
+ages
+
+names
+
+clothes
+
+vvvv	personas

@@ -1,0 +1,52 @@
+Module 1 (Graded)
+
+
+
+
+1. 
+What are examples of desirable characteristics that effective software product management can help to achieve?
+
+	a satisfied client; having regular client demos; client writes automated tests
+
+a satisfied client; the project is on time; lots of overtime hours for developers
+
+the client specifies requirements; demo is delivered at the end; satisfied developers
+
+vvvv	having regular client demos; meeting client needs; having clear project progress
+
+----////------////------/////-------////-------
+
+2. 
+As a software product manager, you could be interacting with many business units, such as the executive, marketing, and support. Day to day, however, you mostly focus on representing the needs of two parties, _____ and _____.
+
+CEO
+
+vvvv	development team
+
+vvvv	client
+
+	end-user
+
+----////------////------/////-------////-------
+
+3. 
+When we have the software product done right, we say the software product is ____.
+
+xxxx	certified
+
+xxxx	validated
+
+vvvv	verified
+
+----////------////------/////-------////-------
+
+4. 
+In the four foundational courses, what main topics are in the next two courses after the introduction that are the basis for the “planning” course and signified by the legs of an inukshuk?
+
+xxxx	Needs and requirements
+
+xxxx	Process and practices
+
+xxxx	Making agile products and making products agile
+
+Process and requirements

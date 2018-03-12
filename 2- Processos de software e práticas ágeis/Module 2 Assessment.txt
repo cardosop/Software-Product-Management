@@ -1,0 +1,106 @@
+Module 2 Assessment (Graded)
+
+
+
+
+1. 
+The Waterfall software process model has phases, each of which results in __________ being passed to the next phase?
+
+vvvv	an approved work product
+
+working software
+
+water
+
+software requirements
+
+-----////------////-------////-------////--------
+
+2. 
+In the Waterfall software process model, what phase or kinds of activities would happen right after the product has been implemented?
+
+xxxx	Maintenance
+
+Specification
+
+Design
+
+vvvv	Verification and validation
+
+-----////------////-------////-------////--------
+
+3. 
+What major activities does the V software process model explicitly emphasize at multiple levels?
+
+Implementation
+
+xxxx	Project management
+
+vvvv	Verification
+
+xxxx	Specification
+
+-----////------////-------////-------////--------
+
+4. 
+In the Spiral software process model, each iteration begins in which quadrant or phase?
+
+xxxx	Identify and resolve risks
+
+xxxx	Plan the next iteration
+
+Develop and test
+
+vvvv	Determine objectives
+
+-----////------////-------////-------////--------
+
+5. 
+The Unified software process model is parallel because of which of the following reason?
+
+vvvv	Activities can happen in parallel within a phase and across phases.
+
+The cycles can happen in parallel.
+
+The phases can happen in parallel.
+
+The iterations can happen in parallel.
+
+-----////------////-------////-------////--------
+
+6. 
+In the Unified software process model, what are the phases in each cycle, in the correct order?
+
+xxxx	Specification, design and implementation, verification and validation, transition
+
+xxxx	Initiation, planning, implementation, closure
+
+xxxx	Inception, development, testing, evolution
+
+Inception, elaboration, construction, transition
+
+-----////------////-------////-------////--------
+
+7. 
+From the course, an early hand-drawn sketch of a product's user interface is what kind of prototype?
+
+vvvv	Illustrative
+
+xxxx	Exploratory
+
+Throwaway
+
+Preliminary
+
+-----////------////-------////-------////--------
+
+8. 
+What does the Microsoft Daily Build enable each day for a software product? (Choose three correct answers)
+
+xxxx	Microsoft uses a practice called continuous installation.
+
+vvvv	Results of automatic overnight testing are presented next day.
+
+vvvv	Software that is integrated and tested to catch issues early.
+
+vvvv	Developer morale is kept up.

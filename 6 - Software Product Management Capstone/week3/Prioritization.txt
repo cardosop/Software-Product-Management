@@ -1,0 +1,119 @@
+3.6 Assessment: Prioritization (Graded)
+
+1. 
+What is the priority of the user story, “As a reader, I want to be able to save selected reading material locally to the device, so that I can read without a wireless connection”?
+
+xxxx	High Priority (1)
+
+vvvv	Medium Priority (2)
+
+Low Priority (3)
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+2. 
+What is the priority and risk of the user story, “As a reader, I want to be able to read material without a partner, so that I can read and practice at my own pace”?
+
+High Priority (1), Low Risk
+
+Medium Priority (2), High Risk
+
+Medium Priority (2), Moderate Risk
+
+vvvv	High Priority (1), Moderate Risk
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+3. 
+What is the priority and risk of the user story, “As a reader, I want the application to support reading fluency through voice recognition, so that the application can test reading fluency consistently and accurately”?
+
+vvvv	Low Priority (3), High Risk
+
+xxxx	Medium Priority (2), Moderate Risk
+
+High Priority (1), Low Risk
+
+Low Priority (3), Moderate Risk
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+4. 
+What is the priority of the user story, “As a reader, I want the application to remotely access the book content, so that the application doesn't require a large amount of memory”?
+
+Low Priority (3)
+
+vvvv	High Priority (1)
+
+Medium Priority (2)
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+5. 
+What is the priority of the user story, “As a reader, I want pages to be animated when I turn them, so that it feels like I'm reading an actual book”?
+
+vvvv	Low Priority (3)
+
+High Priority (1)
+
+Medium Priority (2)
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+6. 
+What is the risk of the user story, “As a reader, I want to be able to create an account, so that I can save information about my activity for my reference later”?
+
+High Risk
+
+vvvv	Low Risk
+
+Moderate Risk
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+7. 
+What is the priority and risk of the user story, “As an account holder, I want to be able to browse the reading material that I have previously read, so that I can go back to that content that I really liked”?
+
+High Priority (1), Low Risk
+
+vvvv	Medium Priority (2), Moderate Risk
+
+Medium Priority (2), High Risk
+
+High Priority (1), Moderate Risk
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+8. 
+What is the risk of the user story, “As a reader, I want to read with a connected reader using video, so that I can see the person with whom I'm reading”?
+
+Moderate Risk
+
+Low Risk
+
+vvvv	High Risk
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+9. 
+What is the priority and risk of the user story, “As a reader, I want to see the covers of the books while I'm browsing through them, so that I can judge a book by its cover”?
+
+Medium Priority (2), Moderate Risk
+
+vvvv	Medium Priority (2), Low Risk
+
+Low Priority (3), Moderate Risk
+
+Low Priority (3), High Risk
+
+-----------////--------//////-----------////-------/////---------///////--------/////---------////----------
+
+10. 
+What is the priority and risk of the user story, “As a reader, I want to select unknown words to see their definition, so that I can learn the definition and pronunciation of new words”?
+
+Medium Priority (2), High Risk
+
+High Priority (1), Moderate Risk
+
+High Priority (1), Low Risk
+
+vvvv	Medium Priority (2), Moderate Risk

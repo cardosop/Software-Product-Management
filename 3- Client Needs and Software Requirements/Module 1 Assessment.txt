@@ -1,0 +1,105 @@
+Module 1 Assessment (Graded)
+
+
+
+1. 
+Which of the statements below are relevant to the activity of eliciting requirements? (Choose three that apply)
+
+v	Involve the client and end users in determining their needs.
+
+v	Necessitate curiosity and investigation.
+
+x	Start and end with a list of what to do from a client.
+
+v	Need interaction with the client and end users to define their problem.
+
+-----///-----//-----///-----//-----///-----//----
+
+2. 
+The activity of analyzing requirements involves checking to ensure requirements are:
+
+a concise representation of the client’s needs, without regard to technical feasibility
+
+written in the correct form, even if requirements conflict
+
+vvvv	clearly written, and consistent with client’s vision
+
+completely capturing the client’s responses, with ambiguity expected
+
+-----///-----//-----///-----//-----///-----//----
+
+3. 
+Why is there an activity to manage requirements? Choose two that are correct.
+
+v	So requirements can be referred to within other software development activities.
+
+x	So requirements are analyzed for improved clarity, consistency, and completeness.
+
+v	So changes to requirements are tracked for impact upon other requirements and work.
+
+x	So requirements are expressed in a usable form.
+
+-----///-----//-----///-----//-----///-----//----
+
+4. 
+Which are examples of the business rule type of software requirement? Choose two that are correct.
+
+v	Government regulation
+
+v	Data retention policy
+
+x	External interfaces
+
+x	Human interface guidelines
+
+-----///-----//-----///-----//-----///-----//----
+
+5. 
+From the course, which type of requirement describes a task that an end user can do with the software product?
+
+External interface
+
+Functional requirement
+
+vvvv	User requirement
+
+Physical setting
+
+-----///-----//-----///-----//-----///-----//----
+
+6. 
+Which types of non-functional requirements are involved in the following statement? "The mobile application must measure the user's location 10 times per second, for a period of at least one hour."
+
+*	Accuracy and usability
+
+xxxx	Performance and accuracy
+
+Security and dependability
+
+Performance and efficiency
+
+-----///-----//-----///-----//-----///-----//----
+
+7. 
+What does the product vision include? Choose two that are correct.
+
+x	Plans for activities to develop the product
+
+v	Overall goal and purpose that motivates the product
+
+x	Future technologies needed to create the product
+
+v	Placement among competing solutions
+
+-----///-----//-----///-----//-----///-----//----
+
+8. 
+What are acceptable ways to defend against scope creep? Choose two that are correct.
+
+x	Arrange more overtime.
+
+v	Ask the question, "Is this in scope?"
+
+x	Assume the scope change is necessary.
+
+v	Make expectations clear.

@@ -1,0 +1,29 @@
+1 - Some of the features to be develloped bring some risk with it, because of the level of difficulty. (medium likelyhood, high impact)
+	- Make sure if the feature that can bring risk is really essential to the project.
+
+2 - Developing for Android and IOS both can bring risk, because is a lot of work to do.(medium likelyhood, medium impact)
+	- Based on the business plan priorities choose one of the platforms to develop first.
+
+3 - Possibility of incompatibulity between different OS can bring risk, because will take time to degub indivudually those bugs.(low likelyhood, high impact)
+	- Try to use frameworks
+	
+4 - Continouslly change of the scope of the project can bring risk, because can inadivertly enlarge the project. (medium likelyhood, high impact)
+	- Define the scope before hand.
+
+5 - Small team can bring risk in case of sickness. (medium likelyhood, medium impact)
+	- Try to have a freelancer at hand.
+
+6 - If database is not fixed can bring risk due to (member of the team)personal experience on it.(low likelyhood, high impact)
+	- Try ask about it before hand in order to be prepared for the problem.
+
+7 - An tight time frame to execute this project can bring risk due to amount of potencial risks.
+	- Try minimaze the risks in order to fulfill the project schedule.
+
+8 - A small budget can bring risk, because do not allows any mistake.
+	- Be prepared to improvise to avoid shortage of money.
+	
+9 - The development od the database connection is a dependency for plenty other tasks, so it can bring a risk of impact other tasks if delays (medium likelyhood, high impact)
+	- team members can help the person responsuble for develop the connection in order to try speed up the process
+	
+10 - When many tasks are in dependency of the same single task can bring risk, because if something goes worng a series of tasks can be affected on negative way
+	- Try minimize the dependencies or spread the tasks in a way that a single task do not block the entire sprint

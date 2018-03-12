@@ -1,0 +1,110 @@
+Module 4: Assessment (Graded)
+
+
+
+
+1. 
+Considering the requirements criteria, a correct user story means ___.
+
+it is reviewed for correctness
+
+it must be implemented correctly
+
+xxxx	it is in the form, "As a ___, I want ___, so that ___."
+
+vvvv	it is an accurate description of a desired requirement
+
+------///-----//------///-----//------///------//------
+
+2. 
+An unambiguous user story would be ___, assuming also the terminology and meaning are understood.
+
+correct
+
+verifiable
+
+vvvv	clear
+
+simple
+
+------///-----//------///-----//------///------//------
+
+3. 
+A ___ user story means that whether it was satisfied can be tested.
+
+clear
+
+correct
+
+simple
+
+vvvv	verifiable
+
+------///-----//------///-----//------///------//------
+
+4. 
+A traceable user story mainly means that ___.
+
+it can be traced to an end user need
+
+vvvv	it can be traced to the code that implements it
+
+it can be traced to whoever originally wrote it
+
+it can be traced to related user stories
+
+------///-----//------///-----//------///------//------
+
+5. 
+While eliciting requirements with a potential photo editor user, you hear they want to be able to edit the last photo. What should you do next?
+
+xxxx	Write a user story to edit the last photo.
+
+xxxx	Ask what kinds of edits to support.
+
+vvvv	Ask which photo to edit.
+
+Ask what benefit this capability would offer.
+
+------///-----//------///-----//------///------//------
+
+6. 
+An ambiguous requirement is best resolved by:
+
+Breaking a single requirement into smaller multiple requirements.
+
+Developing a feature that covers all possible interpretations.
+
+Asking the stakeholder to write the requirement.
+
+vvvv	Requesting additional details to revise the requirement.
+
+------///-----//------///-----//------///------//------
+
+7. 
+Identify the unambiguous user stories for a blog site. Choose two that are correct.
+
+As an author, ___, so that I can correct an entered post.
+
+x	I want to be able to edit my current post
+
+x	I want to be able to edit my previous post.
+
+v	I want to be able to edit my newest post.
+
+v	I want to be able to edit my oldest post.
+
+------///-----//------///-----//------///------//------
+
+8. 
+Identify the problem with the following user story for a restaurant menu app. Choose two that are correct.
+
+As a customer, I want to choose a dietary restriction including vegetarian and gluten-free, so that I avoid certain ingredients in my dishes.
+
+v	Incomplete
+
+v	Ambiguous
+
+x	Inconsistent
+
+x	Infeasible

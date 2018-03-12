@@ -1,0 +1,107 @@
+Module 1 Assessment (Graded)
+
+
+
+
+
+1. 
+For a software life cycle process, the term "life" refers to the time from:
+
+vvvv	Product conception to product retirement
+
+Idea for product to product launch
+
+Product development to product replacement
+
+Product launch to last product upgrade
+
+------////--------/////--------/////------///----
+
+2. 
+Which one of the following statements is not true?
+
+xxxx	A phase is composed of activities.
+
+vvvv	An activity contains phases.
+
+A phase involves tasks.
+
+xxxx	An activity is composed of related tasks.
+
+------////--------/////--------/////------///----
+
+3. 
+In which phase are there activities to assess the product to make sure it works the way it should and that it meets the client's needs?
+
+vvvv	Verification and validation
+
+Design and implementation
+
+Specification
+
+Demonstration
+
+------////--------/////--------/////------///----
+
+4. 
+What are examples of work products in making a software product?
+
+Beer and requirements
+
+Caffeine and sugar
+
+Pens and paper
+
+vvvv	Requirements and tests
+
+------////--------/////--------/////------///----
+
+5. 
+What are examples of resources needed while making your software product?
+
+vvvv	An external review about a competitive product
+
+Requirements of past products you made
+
+xxxx	Source code for your product.
+
+xxxx	Information on the severe defects found in your product
+
+------////--------/////--------/////------///----
+
+6. 
+As defined and depicted in the course, which one of the following statements is true?
+
+A role uses resources, a task uses work products, and an activity uses roles.
+
+A role consumes a resource, and a role produces a work product.
+
+vvvv	A role performs a task, a task produces a work product, and a task consumes a resource.
+
+xxxx	A task produces and consumes work products.
+
+------////--------/////--------/////------///----
+
+7. 
+From the course, what are examples of project management activities?
+
+xxxx	Managing risks, allocating resources, and managing requirements
+
+xxxx	Managing risks, prioritizing requirements, and allocating resources
+
+vvvv	Managing risks, performing estimations, and allocating resources.
+
+Creating a process, documenting software, and improving a process
+
+------////--------/////--------/////------///----
+
+8. 
+From the course, in which phase would an activity to integrate functionality into a working product occur?
+
+xxxx	Integration
+
+Specification
+
+vvvv	Design and implementation
+
+Verification and validation

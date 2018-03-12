@@ -1,0 +1,110 @@
+Module 3 Assessment (Graded)
+
+
+
+
+1. 
+Which of the following Agile principles are applicable when exploring stakeholder needs? Choose all that are correct.
+
+v	Continuous attention to technical excellence and good design enhances agility.
+
+v	The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+v	Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+
+v	Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+2. 
+In which traditional, standard form does a user story express the who, what, and why of a requirement?
+
+vvvv	As a ___, I want ___, so that ___.
+
+As a ___, I want ___, since ___.
+
+As a ___, I need ___, because ___.
+
+As a ___, I need ___, so that ___.
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+3. 
+Bill Wake devised the mnemonic INVEST to remember what makes a good user story. The "I" stands for "independent" and the "N" stands for "negotiable". What do the "V", "E", "S", and "T" stand for?
+
+valuable, estimatable, small, time-bound
+
+vvvv	valuable, estimatable, small, testable
+
+xxxx	viable, estimatable, small, testable
+
+verifiable, estimatable, specific, time-bound
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+4. 
+Consider the following user story:
+
+As a reader, I want to advance to the next article in my reading list by clicking a green button labeled "Next".
+
+Besides missing the reason why, what else is poor about this requirement? Choose two that are correct.
+
+x	It is not small.
+
+x	It is not testable.
+
+v	It is not negotiable.
+
+v	It describes a specific implementation.
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+5. 
+To verify a user story as completed correctly, an acceptance criterion is a ___ and an acceptance test is a ___.
+
+specific quality to be met / method to check for that quality
+
+vvvv	specific condition to be met / method to check for that condition
+
+xxxx	specific condition to be met / method to ensure that condition is true
+
+specific performance to be met / benchmark to check for that performance
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+6. 
+When employing the approach of writing user stories on index cards, what is commonly written on the back of the user story card?
+
+vvvv	Acceptance tests and/or criteria
+
+The priority
+
+The estimated effort
+
+The developer assigned to implement it
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+7. 
+Prior to planning, who determines the effort estimate to complete a user story on the product backlog?
+
+The client
+
+The developer assigned to complete the user story
+
+vvvv	The developers collectively
+
+xxxx	The manager
+
+-----///-----//-----///-----//-----///-----//-----///--
+
+8. 
+A story map takes the user stories on the product backlog and organizes them into columns that denote ___ and rows that denote ___.
+
+functional categories / priorities or releases
+
+functional categories / effort levels
+
+xxxx	stages of completion / priorities or releases
+
+xxxx	stages of completion / developers

@@ -1,0 +1,183 @@
+ Course Final Assessment (Graded)
+
+
+ 
+ 
+ 
+1. 
+From the course, what are the viewpoints to achieving better software?
+
+The right product, the right client, and the right developers.
+
+The right product, the right process, and the right people.
+
+vvvv	The right product, done right, and managed right.
+
+The right product, the right timing, and the right funding.
+
+-----///------////-------///-----///----////---
+
+2. 
+To achieve better software, one viewpoint aims to have the right product. What does having the right product mean?
+
+*	The product functionality does not have defects.
+
+The developers are satisfied with the product.
+
+The client is satisfied that the product meets their needs.
+
+xxxx	The product conforms to the specified requirements.
+
+-----///------////-------///-----///----////---
+
+3. 
+When we have the right software product, we say the software product is ____.
+
+verified
+
+*	validated
+
+xxxx	certified
+
+-----///------////-------///-----///----////---
+
+4. 
+To achieve better software, another viewpoint aims to have the product done right. What ways can developers achieve that? Choose two of the following:
+
+vvvv	Developers review the requirements so that they are clear and consistent.
+
+vvvv	Developers run tests to check whether the product conforms to the specified requirements.
+
+Developers show the product to the client to see if it meets their needs.
+
+Developers request a list of requirements from the client.
+
+-----///------////-------///-----///----////---
+
+5. 
+What is the primary agile principle that can lead to better software products and project success?
+
+vvvv	The customer is satisfied with the early and continuous delivery of valuable software.
+
+The best designs emerge from teams that follow a visionary leader.
+
+Working software is delivered every six months to allow time for more changes.
+
+Information is conveyed effectively in the development team through instant messaging.
+
+-----///------////-------///-----///----////---
+
+6. 
+The Manifesto for Agile Software Development puts more value on:
+
+vvvv	responding to change, individuals and interactions, and working software.
+
+working software, customer collaboration, and processes and tools.
+
+individuals and interactions, working software, and following a plan.
+
+customer collaboration, responding to change, and comprehensive documentation.
+
+-----///------////-------///-----///----////---
+
+7. 
+When the Manifesto for Agile Software Development says it values responding to change over following a plan, it means
+
+changing plans are valued more.
+
+plans can change, so they have less value.
+
+plan for change for more value.
+
+vvvv	responding to change is valued more than following a plan.
+
+-----///------////-------///-----///----////---
+
+8. 
+As an Agile principle, what is harnessed for the customer’s competitive advantage?
+
+motivated individuals
+
+simplicity
+
+*	change
+
+xxxx	valuable software
+
+-----///------////-------///-----///----////---
+
+9. 
+What does a software process organize?
+
+It organizes how the work of people is assisted with software to develop products.
+
+It organizes how software operates on information in distinct phases.
+
+It organizes how software products help people to do work in phases.
+
+vvvv	It organizes how the work of people happens in distinct phases to develop a software product.
+
+-----///------////-------///-----///----////---
+
+10. 
+In this specialization, what are software requirements?
+
+xxxx	They are specific descriptions of what your client needs in order to run the software.
+
+They are specific hardware that the software needs to run.
+
+They are specific descriptions of what your client wants.
+
+*	They are specific descriptions of your client’s needs.
+
+-----///------////-------///-----///----////---
+
+11. 
+Clear expressions of software requirements are important to help _____.
+
+ensure the software requirements are legible by those with poor eyesight
+
+produce transparent effects in the user interface of a software product
+
+the client express themselves clearly
+
+vvvv	avoid confusion between the client and developers
+
+-----///------////-------///-----///----////---
+
+12. 
+Planning initially involves using information from ___ for developers to devise needed tasks and make time estimates.
+
+vvvv	requirements
+
+schedules
+
+delivery targets
+
+calendars
+
+-----///------////-------///-----///----////---
+
+13. 
+What are direct benefits or outcomes of using planning?
+
+risks are managed; plans are fixed; tasks are assigned
+
+risks are identified; risks are monitored; overcommitment can be avoided
+
+vvvv	tasks are determined; tasks are assigned; schedules are created
+
+requirements are defined; task times are estimated; tasks are assigned
+
+-----///------////-------///-----///----////---
+
+14. 
+You need to effectively monitor, analyze, and review the progress of your project, so you:
+
+*	monitor velocity to help in continuously adjusting plans.
+
+use your gut feelings to assess the project status.
+
+can boost morale before crunch time comes.
+
+xxxx	track ongoing work to ensure management knows the status.
